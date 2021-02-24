@@ -1,0 +1,18 @@
+total 1628
+drwxr-xr-x 2 abdullah abdullah   4096 Feb 25 09:32 .
+drwxrwxrwx 6 abdullah abdullah   4096 Feb 21 18:01 ..
+-rwxrwx--- 1 abdullah abdullah    127 Feb 14 09:33 batchfile
+-rwxrwxr-x 1 abdullah abdullah  14272 Feb 25 09:32 evalsh
+-rw-rw-r-- 1 abdullah abdullah   8363 Feb 25 09:32 evalsh.c
+-rwxrwxr-x 1 abdullah abdullah   9120 Feb 21 08:09 exec
+-rw-r--r-- 1 abdullah abdullah    739 Feb 21 08:17 exec.c
+-rw-rw-r-- 1 abdullah abdullah     23 Feb 21 16:29 hello.py
+-rw-rw-r-- 1 abdullah abdullah      4 Feb 25 09:33 inputfile
+-rw-r--r-- 1 abdullah abdullah 708873 Feb 14 08:45 lab notes.pdf
+-rw-r--r-- 1 abdullah abdullah 709559 Feb 14 08:33 manual.pdf
+-rwxrwxr-x 1 abdullah abdullah  14136 Feb 21 18:04 mysh
+-rw-rw-r-- 1 abdullah abdullah   5220 Feb 25 09:07 mysh.c
+-rwx------ 1 abdullah abdullah      0 Feb 25 09:36 outputfile
+-rw-rw-r-- 1 abdullah abdullah  47275 Feb 21 17:57 screenshot-1.png
+-rw-rw-r-- 1 abdullah abdullah  36083 Feb 21 17:57 screenshot-2.png
+-rw-rw-r-- 1 abdullah abdullah  65384 Feb 21 17:58 screenshot-3.png
